@@ -21,4 +21,5 @@ Change Notification Pin - N/A - CN0(RA4)
 
 Flow chart for implementation is show in FlowChart.png.
 Coding was done in MPLAB IDE in C. File containing code is found in Traffic_Light.c
+Code can be used to used to simulate any integer value wait time with only one timer even beyond the 16-bit limit.
 
