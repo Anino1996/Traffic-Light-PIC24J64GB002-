@@ -1,6 +1,6 @@
 # Traffic-Light-PIC24J64GB002-
 Simple traffic management system that simulates 4 traffic lights at a crossroad using a PIC24J64GB002 microcontroller. Timer 2 interrupts and change notifications were used to initiate state changes. Change notifications employed in simulating changes in traffic light timer delay to exhibit a shorter delay during office hours and a longer delay during non-office hours. (hours of heavy traffic). 
-Traffic light pinout is shown below
+Traffic light pinout is shown below\n
 TRAFFIC LIGHT-COLOR-I/O PORT PIN
 Main1 - Green-	RB0	
 Main1 - Yellow	RB1	
